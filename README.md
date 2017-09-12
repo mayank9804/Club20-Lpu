@@ -17,3 +17,4 @@ python-dateutil==2.6.1
 pytz==2017.2
 six==1.10.0
 static3==0.7.0
+django-widget-tweaks==1.4.1
